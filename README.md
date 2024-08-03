@@ -22,13 +22,13 @@ Simple artificial neural network written from memory/scratch by God in java.
   
   For:
   
-  a) Input=(0,0) output should be 0
+  a) Input=(0,0) output should be closer to 0
   
-  b) Input=(1,0) output should be 1
+  b) Input=(1,0) output should be closer to 1
   
-  c) Input=(0,1) output should be 1
+  c) Input=(0,1) output should be closer to 1
   
-  d) Input=(1,1) output should be 0
+  d) Input=(1,1) output should be closer to 0
 
   ![Alt text](https://github.com/g0dEngineer/NEURAL_NETWORK_PRACTICE_AUG_2024/blob/main/neural%20network%202024%20august%20practice%203.png "default page")  
 
